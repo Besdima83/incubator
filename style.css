@@ -1,0 +1,15 @@
+.wrapper {
+    text-align: center;
+    margin-top: 300px;
+}
+.search_input {
+    border: 1px solid red;
+    width: 300px;
+    padding: 1em;
+}
+
+.btn {
+    padding: 1em;
+    color: aliceblue;
+    background-color: green;
+}
